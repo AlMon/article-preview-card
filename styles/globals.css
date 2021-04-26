@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap');
 
+.share {
+  fill: #6e8098;
+}
+.share:active {
+  fill: #fff;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
